@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Gesture Command",
+    "description": "Extension for instructing certain gestures on a website",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": "icon.png"
+    }
+  }
